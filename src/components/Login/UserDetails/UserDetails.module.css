@@ -1,0 +1,17 @@
+.detail {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.inputBlock {
+    width: 100%;
+}
+
+.inputBlock input {
+    border: 0.5px solid gray;
+    border-radius: 4px;
+    width: 280px;
+    height: 30px;
+    margin-top: 5px;
+    padding: 10px;
+}
